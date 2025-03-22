@@ -7,6 +7,7 @@ import Chatbot from './pages/chatbot';
 import Signup from "./newsignup";
 import Categories from './categories'; 
 import CustomCalendar from "./pages/calendar/calendar";
+import Navbar from "./pages/navbar";
 
 
 const timeSlots = Array.from({ length: 16 }, (_, i) => `${i + 7}:00`);
@@ -81,12 +82,14 @@ const App = () => {
   
   return (
     <div className="app">
-<Chatbot />
-<Signup/> 
-<CustomCalendar/>
+    <Navbar />
+    <Chatbot />
+    <div className="signup-container">
+      <Signup />
+      </div>
+    <CustomCalendar/>
 
     </div>
   )};
-
 
 export default App;
