@@ -106,9 +106,9 @@ const Signup = () => {
                 value={formData.dateOfBirth}
                 onChange={handleInputChange}
                 InputLabelProps={{
-                    shrink: true, // Ensures the label is always above the input
+                    shrink: true, 
                 }}
-                placeholder="" // Removes the placeholder to avoid merging
+                placeholder="" 
                 error={!!errors.dateOfBirth}
                 helperText={errors.dateOfBirth}
                 InputProps={{
@@ -131,9 +131,9 @@ const Signup = () => {
                   paddingY: 1.5,
                   fontSize: '16px',
                   fontWeight: 'bold',
-                  backgroundColor: '#fbaed2',
+                  backgroundColor: '#D8BFD8',
                   '&:hover': {
-                    backgroundColor: '#f48fb1',
+                    backgroundColor: '#D8BFD8',
                   },
                 }}
               >
