@@ -1,8 +1,4 @@
-# Shedule
-
 # SHEHack-Team-1
-
-# Shedule
 
 ## Project Name  
 SHEdule  
