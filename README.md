@@ -1,7 +1,4 @@
-# SHEHack-Team-1
-
-## Project Name  
-SHEdule  
+# SHEdule  
 
 ## Team Number  
 Team 1
