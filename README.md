@@ -14,22 +14,11 @@ We were inspired by the challenges that women face in balancing work and health,
 
 ---
 ## Tech Stack Used  
-**Frontend:**  
-- React.js
-- HTML
-- CSS
-- Material UI
+**Frontend:**  React.js, HTML, CSS, Material UI
 
-**Backend:**  
-- Node.js  
-- Express.js
-- Python
-- PostgreSQL  
+**Backend:**  Node.js, Express.js, Python, PostgreSQL  
 
-**AI/LLM:**  
-- LLM Model Ollama Mistrel
-- Google TTS API
-
+**AI/LLM:**  LLM Model Ollama Mistral, Google TTS API
 ---
 
 ## Submission Links  
