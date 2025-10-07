@@ -12,7 +12,7 @@ We were inspired by the challenges that women face in balancing work and health,
 - **Persisting State** – Automatically saves progress and activity status across sessions.  
 - **Health Awareness** – Provides suggestions for food, exercise, and rest based on the user’s phase.  
 
----
+
 ## Tech Stack Used  
 **Frontend:**  React.js, HTML, CSS, Material UI
 
@@ -20,7 +20,6 @@ We were inspired by the challenges that women face in balancing work and health,
 
 **AI/LLM:**  LLM Model Ollama Mistral, Google TTS API
 
----
 
 ## Submission Links  
 **Frontend and LLM Server Github Repository:** https://github.com/nidhi0805/Shedule
